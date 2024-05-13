@@ -1,0 +1,123 @@
+{
+    "ideas": [
+      {
+        "id": "1",
+        "title": "Idea 1",
+        "description": "Description for Idea 1",
+        "category": "Category 1",
+        "submission_date": "2024-04-03T12:00:00Z",
+        "status": "Pending",
+        "author": "User1",
+        "votes": 10,
+        "comments": [
+          "Comment 1",
+          "Comment 2"
+        ],
+        "attachments_links": [
+          "Attachment1.pdf",
+          "https://example.com/link1"
+        ],
+        "priority": "Medium",
+        "tags_keywords": [
+          "tag1",
+          "tag2"
+        ],
+        "related_ideas": [
+          "Related Idea 1",
+          "Related Idea 2"
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Idea 2",
+        "description": "Description for Idea 2",
+        "category": "Category 2",
+        "submission_date": "2024-04-02T15:30:00Z",
+        "status": "Approved",
+        "author": "User2",
+        "votes": 20,
+        "comments": [
+          "Comment 3",
+          "Comment 4"
+        ],
+        "attachments_links": [
+          "Attachment2.jpg",
+          "https://example.com/link2"
+        ],
+        "priority": "High",
+        "tags_keywords": [
+          "tag2",
+          "tag3"
+        ],
+        "related_ideas": [
+          "Related Idea 3",
+          "Related Idea 4"
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Idea 3",
+        "description": "Description for Idea 3",
+        "category": "Category 3",
+        "submission_date": "2024-04-01T09:45:00Z",
+        "status": "Rejected",
+        "author": "User3",
+        "votes": 5,
+        "comments": [
+          "Comment 5",
+          "Comment 6"
+        ],
+        "attachments_links": [],
+        "priority": "Low",
+        "tags_keywords": [
+          "tag1",
+          "tag4"
+        ],
+        "related_ideas": [
+          "Related Idea 5",
+          "Related Idea 6"
+        ]
+      },
+      {
+        "id": "164e",
+        "title": "mich",
+        "description": "jcjdnj",
+        "category": "bjnjncd",
+        "author": "",
+        "newTag": "",
+        "tags": [
+          "n nb n"
+        ]
+      },
+      {
+        "id": "d8a8",
+        "title": "bjbjn",
+        "description": "m mnm",
+        "category": "",
+        "author": "hhb",
+        "newTag": "bjbjmb",
+        "tags": []
+      },
+      {
+        "id": "b521",
+        "title": "intelligence",
+        "description": "",
+        "category": "",
+        "author": "",
+        "newTag": "",
+        "tags": []
+      },
+      {
+        "id": "9b5f",
+        "title": "money tracker",
+        "description": "which tracks money efficently",
+        "category": "web development",
+        "author": "vyshnavi",
+        "newTag": "",
+        "tags": [
+          "html",
+          "css"
+        ]
+      }
+    ]
+  }
