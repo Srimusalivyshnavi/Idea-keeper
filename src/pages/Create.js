@@ -16,7 +16,7 @@ const Create = () => {
     const doc = { title, description, category, author, tags }; // Corrected object syntax
     try {
       await projectFirestore.collection("ideas").add(doc);
-      navigate("/");
+      navigate("/home");
     } catch (err) {
       console.error("Error adding document: ", err); // Corrected console.log to console.error
     }
