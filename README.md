@@ -2,9 +2,9 @@
 Add ideas and Organize ideas using idea-keeper Project.(Project created using React JS and Firebase).
 
 
-# Roles
-Admin - Add ideas, delete ideas, and search ideas.
-General User - View ideas, authenticate securely, and search ideas for personalized exploration.
+# Features
+Add ideas, delete ideas, and search ideas.
+View ideas, authenticate securely, and search ideas for personalized exploration.
 
 
 # Project Photos
