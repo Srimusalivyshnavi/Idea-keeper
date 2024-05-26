@@ -1,5 +1,5 @@
 # Idea-Keeper Site
-Add and Organize your ideas using idea-keeper Project.(Project created using React JS and Firebase).
+Add and Organize your ideas using idea-keeper Site.(Project created using React JS and Firebase).
 
 
 # Features
